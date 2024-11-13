@@ -1,0 +1,18 @@
+#outer{
+    height:50px;
+    width: 900px; 
+    background-color: rgb(240, 125, 163);
+    border:2px solid lightseagreen;
+    border-radius: 10%;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+}
+.inner{
+    height: 50px;
+    width: 80px;
+    border-radius: 10%;
+    font-size: 24px;
+    margin-left: 5px;
+    line-height: 50px;
+}
